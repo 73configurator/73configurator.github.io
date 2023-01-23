@@ -55,7 +55,7 @@ header a {
 }
 
 header img {
-    height: 50px;
+    height: 30px;
 }
 
 /* Landing */
@@ -79,7 +79,7 @@ header img {
 
 .landing .text .strapline {
     font-size: 42px;
-    font-weight: 400;
+    font-weight: 300;
     line-height: 1;
 }
 
@@ -105,8 +105,8 @@ header img {
 
 footer {
     background-color: black;
-    color: #444;
-    font-size: x-small;
+    color: #888;
+    font-size: small;
     padding: 10px;
     text-align: center;
 }
